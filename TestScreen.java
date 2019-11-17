@@ -1,10 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
 
-
-
 public class TestScreen extends JFrame{
-    public static Graphics g2d = new Graphics2D();
+    //public static Graphics g2d = new Graphics();
 
     public static void main(String[] args){
         Graphics2D g2d;
